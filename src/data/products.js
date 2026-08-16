@@ -1,0 +1,58 @@
+export const defaultProducts = [
+  {
+    id: 1,
+    name: "Bread",
+    category: "Bakery",
+    price: 40,
+    stock: 5,
+  },
+  {
+    id: 2,
+    name: "Samosa",
+    category: "Snacks",
+    price: 15,
+    stock: 50,
+  },
+  {
+    id: 3,
+    name: "Puff",
+    category: "Bakery",
+    price: 30,
+    stock: 3,
+  },
+  {
+    id: 4,
+    name: "Cake Slice",
+    category: "Bakery",
+    price: 60,
+    stock: 20,
+  },
+  {
+    id: 5,
+    name: "Mixture",
+    category: "Snacks",
+    price: 80,
+    stock: 15,
+  },
+  {
+    id: 6,
+    name: "Biscuits",
+    category: "Bakery",
+    price: 25,
+    stock: 40,
+  },
+  {
+    id: 7,
+    name: "Cake Base",
+    category: "Bakery",
+    price: 120,
+    stock: 2,
+  },
+  {
+    id: 8,
+    name: "Namkeen",
+    category: "Snacks",
+    price: 90,
+    stock: 35,
+  },
+];
